@@ -1,5 +1,8 @@
-<!doctype html>
-<html>
-  <h3>Hello there!</h3>
-  <p>I need to redo my website so please be patient</p>
-</html>
+---
+layout: default
+---
+<ul>
+	{% for post in site.posts %}
+	<li><a href="{{  post.url }}" title="{{ post.title }}"><img src="/assets/img/file.ico" title="{{ post.title }}" />{{ post.title }}</a></li>
+	{% endfor %}
+</ul>
