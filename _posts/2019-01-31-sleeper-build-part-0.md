@@ -17,4 +17,4 @@ Finally, after browsing the vintage computing section of ebay for a few days loo
 ![Case opened](/images/sleeper-pc/0/open-case.png)
 ![Dusty interior](/images/sleeper-pc/0/dusty-inside.png)
 
-[Next Part](https://vic485.xyz/2019/02/03/sleeper-build-part-1.html)
+[[Next Part](https://vic485.xyz/2019/02/03/sleeper-build-part-1.html)]

@@ -10,3 +10,5 @@ I recieved the PSU in the mail on Monday, and finally got time to put it in the 
 
 ![Case fitting](/images/sleeper-pc/2/in-case.png)
 ![Rear view](/images/sleeper-pc/2/back-view.png)
+
+[[Previous Part](https://vic485.xyz/2019/02/03/sleeper-build-part-1.html)] [[Next Part](https://vic485.xyz/2019///sleeper-build-part-3.html)]
