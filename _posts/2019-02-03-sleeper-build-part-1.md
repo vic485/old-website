@@ -21,4 +21,4 @@ So now I've gotten it completely torn down, cleaned out, and washed. Have to sta
 ![Just the mobo left](/images/sleeper-pc/1/almost-done.png)
 ![Just the frame](/images/sleeper-pc/1/completely-empty.png)
 
-[[Previous Part](https://vic485.xyz/2019/01/31/sleeper-build-part-0.html)] [[Next Part](https://vic485.xyz/2019/02/14/sleeper-build-part-2.html)]
+[[Previous Part]({{ site.baseurl }}{% post_url 2019-01-31-sleeper-build-part-0 %})] [[Next Part]({{ site.baseurl }}{% post_url 2019-02-14-sleeper-build-part-2 %})]
