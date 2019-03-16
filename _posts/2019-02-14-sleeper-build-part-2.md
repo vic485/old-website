@@ -11,4 +11,4 @@ I recieved the PSU in the mail on Monday, and finally got time to put it in the 
 ![Case fitting](/images/sleeper-pc/2/in-case.png)
 ![Rear view](/images/sleeper-pc/2/back-view.png)
 
-[[Previous Part]({{ site.baseurl }}{% post_url 2019-02-03-sleeper-build-part-1 %})] [[Next Part]({{ site.baseurl }})]
+[[Previous Part]({{ site.baseurl }}{% post_url 2019-02-03-sleeper-build-part-1 %})] [[Next Part]({{ site.baseurl }}{% post_url 2019-03-15-sleeper-build-part-3 %})]
