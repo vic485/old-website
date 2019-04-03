@@ -15,4 +15,4 @@ I took some time to go at adapting the wiring of the front panel board for use w
 ![Wiring complete](/images/sleeper-pc/3/solder-finish.png)
 ![My notes](/images/sleeper-pc/3/notebook.png)
 
-[[Previous Part]({{ site.baseurl }}{% post_url 2019-02-14-sleeper-build-part-2 %})] [[Next Part]({{ site.baseurl }})]
+[[Previous Part]({{ site.baseurl }}{% post_url 2019-02-14-sleeper-build-part-2 %})] [[Next Part]({{ site.baseurl }}{% post_url 2019-04-02-sleeper-build-part-4 %})]
