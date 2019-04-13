@@ -1,11 +1,7 @@
-# Windows 95 Theme for Jekyll
+# My Personal Blog
 
-![ss](https://github.com/h01000110/windows-95/raw/gh-pages/screenshot_2.png)
+Personal blog/portfolio/whatever website. Theme is a rewrite of the "Windows 95 Theme for Jekyll"
 
-Homepage: [Windows 95](https://h01000110.github.io/20170917/windows-95)
-
-Demo: [Click here](https://h01000110.github.io/windows-95/)
-
-Author: [h01000110 (hi)](https://github.com/h01000110)
+Original Author: [h01000110 (hi)](https://github.com/h01000110)
 
 License: [MIT](https://github.com/h01000110/windows-95/blob/master/LICENSE)

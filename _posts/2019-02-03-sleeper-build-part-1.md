@@ -2,6 +2,7 @@
 layout: default
 title: "Sleeper Build Part 1"
 tags: blog
+image: /assets/img/file.ico
 ---
 
 ## Cleaning out the case

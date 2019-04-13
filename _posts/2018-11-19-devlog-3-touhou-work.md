@@ -2,6 +2,7 @@
 layout: default
 title: "Devlog #3 - Touhou Game"
 tags: devlogs
+image: /assets/img/file.ico
 ---
 
 ## Light game work

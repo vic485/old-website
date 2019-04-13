@@ -2,6 +2,7 @@
 layout: default
 title: "Sleeper Build Part 2"
 tags: blog
+image: /assets/img/file.ico
 ---
 
 ## PSU mounting

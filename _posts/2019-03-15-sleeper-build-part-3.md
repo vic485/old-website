@@ -2,6 +2,7 @@
 layout: default
 title: "Sleeper Build Part 3"
 tags: blog
+image: /assets/img/file.ico
 ---
 
 ## Getting the front panel to work

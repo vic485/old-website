@@ -2,7 +2,9 @@
 layout: default
 title: "Sleeper Build Part 4"
 tags: blog
+image: /assets/img/file.ico
 ---
+
 ## Case fan and optical drive
 Been a little while since I wrote about this, but I wanted to get more done on it before posting updates, and paint takes a while to dry. I managed to get two things done on the computer for this update, the first being a case fan at the back that mounts over the IO panel. I mounted a Noctua NF-A9 PWM fan using the original rear fan mounting shroud. The Noctua fan is a bit thicker than the original fan, so I had to trim down the plastic with a snap off blade (watch your fingers!) to get it to clip in. The fan is mounted as an intake fan and has the old wire cover over it, though I will probably remove it as the clips barely hold in and it doesn't serve a big purpose.
 

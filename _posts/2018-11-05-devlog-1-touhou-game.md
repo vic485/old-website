@@ -2,6 +2,7 @@
 layout: default
 title: "Devlog #1 - Touhou Game"
 tags: devlogs
+image: /assets/img/file.ico
 ---
 
 ## Starting a Touhou Fan Game

@@ -2,6 +2,7 @@
 layout: default
 title: "Devlog #2 - Touhou Game"
 tags: devlogs
+image: /assets/img/file.ico
 ---
 
 ## Framing out the game

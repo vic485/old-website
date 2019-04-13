@@ -2,6 +2,7 @@
 layout: default
 title: "Sleeper Build Part 0"
 tags: blog
+image: /assets/img/file.ico
 ---
 
 ## Building a new PC - Sleeper build

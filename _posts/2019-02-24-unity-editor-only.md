@@ -2,6 +2,7 @@
 layout: default
 title: "Unity Editor Only"
 tags: tips blog
+image: /assets/img/file.ico
 ---
 
 ## Keeping Unity scripts and objects out of builds
