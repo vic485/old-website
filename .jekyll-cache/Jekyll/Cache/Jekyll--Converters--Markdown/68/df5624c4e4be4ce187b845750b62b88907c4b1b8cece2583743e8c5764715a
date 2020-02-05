@@ -1,0 +1,5 @@
+I"L<p>Run this under <strong>tag</strong> folder in order to generate a page for each of your tags. If you added a new tag you need to come to this page and run the script again.</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="nb">echo</span> <span class="s1">$'---</span><span class="se">\n</span><span class="s1">layout: tag_index</span><span class="se">\n</span><span class="s1">tag: blog </span><span class="se">\n</span><span class="s1">---'</span> <span class="o">&gt;</span> <span class="s1">'blog.md'</span> &amp;</code></pre></figure>
+
+:ET
